@@ -22,8 +22,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "bot": "cypress open",
+    "both": "cypress run --headed --no-exit --config video=false --spec cypress/integration/bot-spec.ts",
     "botr": "cypress run --no-exit --config video=false --spec cypress/integration/bot-spec.ts",
-    "botrr": "cypress run --record --spec cypress/integration/bot-spec.ts"
+    "botrr": "cypress run --record --spec cypress/integration/bot-spec.ts",
+    "bot:chrome": "cypress run --browser chrome --headed --no-exit --config video=false --spec cypress/integration/bot-spec.ts"
   },
   "eslintConfig": {
     "extends": [
