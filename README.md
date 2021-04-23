@@ -44,10 +44,10 @@ Para configurar o bot é necessário informar as credenciais de acesso ao ao sit
 
 Navegando na pasta do projeto vá até a pasta
 ```
-bot-ulife/cypress/config/index.example.ts
+bot-ulife/cypress/config/
 ```
 
-Abra o arquivo com um editor de texto e altere os dados aonde está escrito conforme abaixo dentro das aspas:
+Abra o arquivo **index.example.ts** com um editor de texto e altere os dados aonde está escrito conforme abaixo dentro das aspas:
 
 ```
 export const config = {
@@ -58,7 +58,7 @@ export const config = {
 
 **Importante**
 
-Ao salvar o arquivo, vá até a pasta do arquivo e renomeie o arquivo para
+Ao salvar o arquivo, vá até a pasta do arquivo **index.example.ts** e o renomeie para
 
 ```
 index.ts
