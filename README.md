@@ -96,7 +96,7 @@ cd C:\bot-ulife\
 npm run bot:chrome
 ```
 
-Depois basta executar o arquivo.
+Depois salve o arquivo e basta executá-lo.
 
 ## Sistemas operacionais testado
 
