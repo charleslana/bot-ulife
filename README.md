@@ -89,7 +89,7 @@ Teste em média de 10 a 13 segundos
 
 Você pode criar um atalho ao invés de executar a linha de comando.
 
-Para usuários **Windows** basta criar um arquivo com nome e extensão **atalho.bat**, além disso você deve especificar o caminho e a execução dentro do arquivo, sendo assim:
+Para usuários que utiliza o sistema operacional **Windows** basta criar um arquivo com nome e extensão **atalho.bat**, além disso você deve especificar o caminho do projeto na pasta raiz e a execução dentro do arquivo, sendo assim:
 
 ```
 cd C:\bot-ulife\
