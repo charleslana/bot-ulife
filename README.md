@@ -70,7 +70,7 @@ Dessa forma a configuração estará completa e caso você altere sua senha voc�
 Na pasta raiz do projeto basta abrir seu terminal ou cmd e executar o comando
 
 ```
-npm run bot
+npm run bot:chrome
 ```
 
 O processo é automático.
@@ -124,6 +124,10 @@ Se você quiser ajudar, faça um Fork do projeto, faça suas modificações e ab
 
 | [<img src="https://avatars.githubusercontent.com/u/61798509?v=4?size=115" width=115><br><sub>@matheusreis-oliveira</sub>](https://github.com/matheusreis-oliveira) |
 | :---: |
+
+## Dúvidas ou problemas
+
+Abra uma issue (uma questão) para que possamos o ajudar.
 
 ## Licença
 
