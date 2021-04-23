@@ -76,6 +76,28 @@ O processo é automático.
 
 <img src="https://i.imgur.com/wiaDDEK.gif" alt="Em execução">
 
+#Duração de execução
+
+A duração pode variar conforme a conexão da internet ou da resposta do servidor.
+
+Teste em média de 10 a 13 segundos
+
+##Sistemas operacionais testado
+
+- [x] Linux
+- [x] Windows 10
+- [ ] macOs
+
+##Navegadores testado
+
+- [x] Google Chrome
+- [x] Electron
+- [ ] Firefox
+- [ ] Microsoft Edge
+- [ ] Internet Explorer
+- [ ] Opera
+- [ ] Safari
+
 ##Tecnologias usada
 
 [Typescript](https://www.typescriptlang.org/)
