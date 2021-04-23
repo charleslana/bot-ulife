@@ -5,9 +5,11 @@
 
 ## Introdução
 
-Esta aplicação é um pequeno bot responsável por buscar a aula da aplicação zoom pelo site da faculdade Ulife.
+Esta aplicação é um pequeno bot responsável por buscar a aula da aplicação zoom pelo site da faculdade Una pelo sistema Ulife.
 
 O processo de automatização que o bot realiza permite que ao acioná-lo a aula ads da faculdade irá abrir para que possa interagir com a aplicação do zoom.
+
+O intuito é fazer com que o aluno possa acessar a aula de uma forma rápida a qualquer momento.
 
 ## Requisitos para instalação do bot
 
