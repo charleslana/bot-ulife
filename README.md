@@ -11,7 +11,8 @@ O processo de automatização que o bot realiza permite que ao acioná-lo a aula
 
 ## Requisitos para instalação do bot
 
-Instalar o node v14.16.1 LTS<br/>
+Instalar o node v14.16.1 LTS
+
 [Clique aqui para instalar o Node](https://nodejs.org/en/)
 
 ## Baixar
