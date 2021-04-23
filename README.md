@@ -3,18 +3,18 @@
 <img src="https://i.imgur.com/6j9IoAR.png" height="150" alt="Bot ulife">
 </div>
 
-##Introdução
+## Introdução
 
 Esta aplicação é um pequeno bot responsável por buscar a aula da aplicação zoom pelo site da faculdade Ulife.
 
 O processo de automatização que o bot realiza permite que ao acioná-lo a aula ads da faculdade irá abrir para que possa interagir com a aplicação do zoom.
 
-##Requisitos para instalação do bot
+## Requisitos para instalação do bot
 
 Instalar o node v14.16.1 LTS<br/>
 [Clique aqui para instalar o Node](https://nodejs.org/en/)
 
-##Baixar
+## Baixar
 
 * [Clique aqui para baixar o projeto pelo repositório diretamente](https://github.com/charleslana/bot-ulife/archive/refs/heads/master.zip)
 
@@ -26,7 +26,7 @@ Clonar pelo Git
 git clone https://github.com/charleslana/bot-ulife.git
 ```
 
-##Instalação
+## Instalação
 
 Após a instalação do node/npm e baixar ou clonar o projeto você deve concluir a instalação do bot no terminal.
 
@@ -35,7 +35,7 @@ Na raiz da pasta do projeto abra o terminal ou cmd e execute o comando:
 npm install
 ```
 
-##Configuração
+## Configuração
 
 Para configurar o bot é necessário informar as credenciais de acesso ao ao site do calendar da ulife.
 
@@ -62,7 +62,7 @@ index.ts
 ```
 Dessa forma a configuração estará completa e caso você altere sua senha você pode alterar o arquivo novamente.
 
-##Execução
+## Execução
 
 Na pasta raiz do projeto basta abrir seu terminal ou cmd e executar o comando
 
@@ -72,23 +72,23 @@ npm run bot
 
 O processo é automático.
 
-##Em execução
+## Em execução
 
 <img src="https://i.imgur.com/wiaDDEK.gif" alt="Em execução">
 
-#Duração de execução
+## Duração de execução
 
 A duração pode variar conforme a conexão da internet ou da resposta do servidor.
 
 Teste em média de 10 a 13 segundos
 
-##Sistemas operacionais testado
+## Sistemas operacionais testado
 
 - [x] Linux
 - [x] Windows 10
 - [ ] macOs
 
-##Navegadores testado
+## Navegadores testado
 
 - [x] Google Chrome
 - [x] Electron
@@ -98,7 +98,7 @@ Teste em média de 10 a 13 segundos
 - [ ] Opera
 - [ ] Safari
 
-##Tecnologias usada
+## Tecnologias usada
 
 [Typescript](https://www.typescriptlang.org/)
 
@@ -106,22 +106,22 @@ Teste em média de 10 a 13 segundos
 
 [Cypress](https://www.cypress.io/)
 
-##Contribuir
+## Contribuir
 
 O projeto é Open source e pode ser aprimorado, ele foi iniciado para continuidade e aprimoração.
 
 Se você quiser ajudar, faça um Fork do projeto, faça suas modificações e abre uma pull request, iremos avaliar e suas modificações ficarão como contribuidores.
 
-##Autor
+## Autor
 
 | [<img src="https://avatars.githubusercontent.com/u/63615970?v=4?size=115" width=115><br><sub>@charleslana</sub>](https://github.com/charleslana) |
 | :---: |
 
-##Contribuidores
+## Contribuidores
 
 | [<img src="https://avatars.githubusercontent.com/u/61798509?v=4?size=115" width=115><br><sub>@matheusreis-oliveira</sub>](https://github.com/matheusreis-oliveira) |
 | :---: |
 
-##Licença
+## Licença
 
 Este projeto está licenciado sob a GNU General Public License v3.0, consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
