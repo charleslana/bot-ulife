@@ -85,6 +85,19 @@ A duração pode variar conforme a conexão da internet ou da resposta do servid
 
 Teste em média de 10 a 13 segundos
 
+## Atalhos
+
+Você pode criar um atalho ao invés de executar a linha de comando.
+
+Para usuários **Windows** basta criar um arquivo com nome e extensão **atalho.bat**, além disso você deve especificar o caminho e a execução dentro do arquivo, sendo assim:
+
+```
+cd C:\bot-ulife\
+npm run bot:chrome
+```
+
+Depois basta executar o arquivo.
+
 ## Sistemas operacionais testado
 
 - [x] Linux
